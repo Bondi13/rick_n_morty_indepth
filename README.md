@@ -1,4 +1,4 @@
-https://rickandmortyapi.com/
+`https://rickandmortyapi.com/`
 
 Tasks:
 
@@ -6,7 +6,7 @@ Tasks:
 2. Replace character, location, and episode values with data from fixtures.
 3. Move the above selectors to pageObjects.
 4. Write a test:
-    Go to Docs, navigate to the "Get all characters" section, and check if the method is GET and the URL is https://rickandmortyapi.com/api/character.
+    Go to Docs, navigate to the "Get all characters" section, and check if the method is GET and the URL is `https://rickandmortyapi.com/api/character`.
 5. Write a function that goes to Docs and returns the URL value from the "Get all characters" section with "/ " added at the end.
 6. Write a test:
     Send a request to retrieve all characters that are aliens, alive, and genderless. Check if the count matches the data in fixtures.
