@@ -1,0 +1,40 @@
+{
+  "landingPage": {
+    "characters": 826,
+    "locations": 126,
+    "episodes": 51
+  },
+  "numberOfCharacters": 1,
+  "forEachData": [
+    {
+      "species": "alien",
+      "status": "alive",
+      "gender": "genderless",
+      "numberOfCharacters": 1
+    },
+    {
+      "species": "human",
+      "status": "dead",
+      "gender": "male",
+      "numberOfCharacters": 114
+    },
+    {
+      "species": "human",
+      "status": "alive",
+      "gender": "female",
+      "numberOfCharacters": 56
+    },
+    {
+      "species": "alien",
+      "status": "alive",
+      "gender": "unknown",
+      "numberOfCharacters": 17
+    },
+    {
+      "species": "alien",
+      "status": "unknown",
+      "gender": "unknown",
+      "numberOfCharacters": 3
+    }
+  ]
+}
